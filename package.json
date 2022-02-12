@@ -1,0 +1,24 @@
+{
+  "name": "MongoDb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam-Deve/MongoDb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivam-Deve/MongoDb/issues"
+  },
+  "homepage": "https://github.com/Shivam-Deve/MongoDb#readme",
+  "dependencies": {
+    "mongoose": "^6.2.1"
+  }
+}
